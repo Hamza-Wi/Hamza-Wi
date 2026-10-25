@@ -17,7 +17,7 @@ and administration systems.
 
 ## Featured projects
 
-### 🩺 [Tabib Store](https://github.com/Hamza-Wi/remon_link)
+### 🍎 [Tabib Store](https://tabib-jo.com/)
 
 An Arabic/English medical and pharmacy e-commerce platform built with Laravel.
 It includes:
@@ -29,13 +29,13 @@ It includes:
 - JWT/API support for application integrations
 - RTL/LTR support and WhatsApp order notifications
 
-### 🔗 Remon Link
+### 🔗 [Remon Link](https://www.remonlink.com/).
 
 A project focused on connecting customers with products and services through a
 simple, practical web experience.
 
 > Add the repository or live-demo link here:
-> `https://github.com/Hamza-Wi/<remon-link-repository>`
+> https://www.remonlink.com/
 
 ### 🎓 University Management System
 
@@ -67,8 +67,8 @@ data, and day-to-day administrative workflows.
 ## Connect with me
 
 - GitHub: [@Hamza-Wi](https://github.com/Hamza-Wi)
-- LinkedIn: `https://www.linkedin.com/in/<your-linkedin-username>`
-- Email: `<your-email-address>`
+- LinkedIn: [Hamza (Ehab) Ghunaim](www.linkedin.com/in/hamzaehab)
+- Email: hamzaghunaim2016@gmail.com
 
 ---
 
